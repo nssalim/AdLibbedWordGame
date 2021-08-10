@@ -27,3 +27,9 @@ public class AdLibbedWordGame {
         System.out.println(story);
     }
 }
+
+/*
+OUTPUT
+This morning Neo woke up feeling Happy. 'It is going to be a Great day!' Outside, a bunch of projections were protesting to keep blue pill in stores. They began to glitch to the rhythm of the ringing public telephone, which made all the Sentinels very uneasy. Concerned, Neo texted Morpheus, who flew Neo to Nebuchadnezzar II and dropped Neo in a puddle of frozen reality. Neo woke up in the year 1999, in a world where AI Overlordss ruled the world.
+*/
+
